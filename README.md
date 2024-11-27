@@ -6,4 +6,7 @@ This repo is part of a course on Agentic AI systems. I have the course written i
 
 [Aritcle Format](https://ai.gopubby.com/building-your-first-ai-agent-with-langgraph-a-beginners-guide-d73d241c5b63)
 
-[Video Format](https://youtu.be/assrhPxNdSk)
+
+[🎥 Watch the video](https://www.youtube.com/watch?v=assrhPxNdSk)
+
+![Video Thumbnail](https://img.youtube.com/vi/assrhPxNdSk/0.jpg)
